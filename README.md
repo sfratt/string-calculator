@@ -4,7 +4,7 @@ An example Java project, including Gradle, JUnit, and Azure Pipelines, to demons
 
 [![Build Status](https://dev.azure.com/sfratt/string-calculator/_apis/build/status/sfratt.string-calculator?branchName=master)](https://dev.azure.com/sfratt/string-calculator/_build/latest?definitionId=4&branchName=master)
 
-The project contains a simple Java application that performs arithmetic on string inputs, and provides a test suite with [JUnit 4](https://junit.org/junit4/). [Gradle](https://gradle.org/) provides configuration that can automate builds using a continuous integration tool like [Azure DevOps](https://azure.com/devops).
+The project contains a simple Java application that parses and performs arithmetic on string inputs, and provides a test suite with [JUnit 4](https://junit.org/junit4/), build automation via [Gradle](https://gradle.org/), and a continuous integration tool like [Azure DevOps](https://azure.com/devops).
 
 To initialize and build a Gradle project, simply:
 
